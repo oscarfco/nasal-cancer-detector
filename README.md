@@ -1,1 +1,1 @@
-# nasal-cancer-detector
+# Deep Learning Cancer Detector
